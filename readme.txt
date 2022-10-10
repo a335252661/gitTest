@@ -7,3 +7,4 @@ do dev 777
 do dev 666
 do master 666
 do master 777
+do master 888
