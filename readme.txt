@@ -25,3 +25,6 @@ do bug-003 001
 do master 104
 do master 105
 do master 106
+
+do bug-004 001
+do bug-004 002
